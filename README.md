@@ -2,8 +2,6 @@
 ![Logo](https://netcorecloud.com/wp-content/themes/netcoretheme/assets/images/netcore-logo-main.svg)
 # SmartechAppInbox-iOS-SDK
 
-[![Version](https://img.shields.io/cocoapods/v/Smartech-iOS-SDK.svg?style=flat)](http://cocoapods.org/pods/Smartech-iOS-SDK) [![License](https://img.shields.io/cocoapods/l/Smartech-iOS-SDK.svg?style=flat)](http://cocoapods.org/pods/Smartech-iOS-SDK) [![Platform](https://img.shields.io/cocoapods/p/Smartech-iOS-SDK.svg?style=flat)](http://cocoapods.org/pods/Smartech-iOS-SDK)
-
 Netcore Customer Engagement platform is a omni channel platform that delivers everything you need to drive mobile engagement and create valuable consumer relationships on mobile. The SmartechAppInbox iOS SDK enables your native iOS app to use app inbox feature. This guide contains all the information you need to integrate the SmartechAppInbox iOS SDK into your app.
 
 ## Developer Docs
