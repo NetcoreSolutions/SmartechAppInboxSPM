@@ -15,7 +15,7 @@ let package = Package(
     targets: [
         .target(name: "SmartechAppInboxSPM", dependencies: []),
         .binaryTarget(name: "SmartechAppInbox",
-                      url: "https://github.com/NetcoreSolutions/SmartechAppInboxSPM/releases/download/3.5.5/SmartechAppInbox.xcframework.zip",
-                     checksum: "17dfaebf2425ed5c302d242d0cbbc58aa0d3fa0ccdfc719a811951a07a45e611")
+                      url: "https://github.com/NetcoreSolutions/SmartechAppInboxSPM/releases/download/3.5.7/SmartechAppInbox.xcframework.zip",
+                     checksum: "de594d4fff7bf1b67ebef43cb06c822ceb86fbdc2b7201347e40e61f207f496c")
     ]
 )
